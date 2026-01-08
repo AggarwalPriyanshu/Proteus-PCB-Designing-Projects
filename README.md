@@ -26,9 +26,10 @@ It demonstrates **end-to-end PCB workflow**, including:
 ![PCB](https://img.shields.io/badge/PCB-Multi--Layer-orange)
 ![Electronics](https://img.shields.io/badge/Core-Electronics-green)
 
-- **Proteus Design Suite**
-  - ISIS – Schematic & Simulation
+- **Proteus Design Suite 8**
+  - ISIS – Schematic Capture & Circuit Simulation
   - ARES – PCB Layout & Routing
+
 - **Design Skills**
   - Schematic Capture
   - PCB Placement & Routing
