@@ -44,6 +44,7 @@ It demonstrates **end-to-end PCB workflow**, including:
 
 ## 📂 Repository Structure
 
+```
 Proteus-PCB-Designing-Projects/
 │
 ├── AUTOMATIC STREET LIGHT/
@@ -55,7 +56,7 @@ Proteus-PCB-Designing-Projects/
 ├── WATER LEVEL INDICATOR/
 ├── Project Backups/
 └── README.md
-
+```
 
 Each project folder contains:
 - 🧩 Circuit schematic images
